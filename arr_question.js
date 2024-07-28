@@ -30,7 +30,6 @@ function modifyArr(originalArr, deleteElement, replaceElement) {
         console.log(`${deleteElement} is not in the array!`);
 
     }
-
 }
 
 let arr = ["mihir", "mouse", "jack"]
